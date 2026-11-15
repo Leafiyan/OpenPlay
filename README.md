@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Your games, all in one place.</strong><br>
-  A free game launcher for Windows that brings Steam, Epic Games, Battle.net,<br>
+  A free, easy-to-use game launcher for Windows that brings Steam, Epic Games, Battle.net,<br>
   Xbox / PC Game Pass and your own games together in one library.
 </p>
 
@@ -37,6 +37,7 @@
 
 ## ✨ Features
 
+- 🙌 **Simple by design**: clean and easy to use from the first launch. Connect your stores and your games are ready, with no complicated setup or plugins needed.
 - 📚 **Every store, one library**: connect Steam, Epic Games, Battle.net and Xbox, and see every game you own in one list, installed or not.
 - ⭐ **Favourites and finished games**: star the games you love and tick off the ones you've finished, then sort your library by either.
 - 🗂️ **Collections**: group your games your way, like *Better With Friends* or *Cozy & Casual*. Ctrl+click to add several at once.
