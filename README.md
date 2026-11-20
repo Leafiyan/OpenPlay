@@ -7,8 +7,8 @@
 **All your PC games in one clean, simple library.**
 
 [![Latest version](https://img.shields.io/github/v/release/Leafiyan/OpenPlay?label=version&color=7c6cf5&style=flat-square)](https://github.com/Leafiyan/OpenPlay/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/Leafiyan/OpenPlay/total?color=28aa3d&style=flat-square)](https://github.com/Leafiyan/OpenPlay/releases)
 ![Windows 10 and 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=flat-square)
+[![Downloads](https://img.shields.io/github/downloads/Leafiyan/OpenPlay/total?color=28aa3d&style=flat-square)](https://github.com/Leafiyan/OpenPlay/releases)
 [![Discord](https://img.shields.io/badge/Discord-join-5865F2?logo=discord&logoColor=white&style=flat-square)](https://discord.gg/U6gvrYwXPp)
 
 [Discord](https://discord.gg/U6gvrYwXPp) &nbsp;·&nbsp; [Website](https://openplaylauncher.com) &nbsp;·&nbsp; [Roadmap](https://openplaylauncher.com/roadmap) &nbsp;·&nbsp; [FAQ](https://openplaylauncher.com/faq) &nbsp;·&nbsp; [Support](#community-and-support)
